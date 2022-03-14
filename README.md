@@ -1,2 +1,6 @@
-<h2>XXX</h2>
-![F's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-F&show_icons=true&theme=synthwave)
+<div>
+  <h2>3-F</h2>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=3-F&show_icons=true&theme=cobalt"/>
+  <span>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/>xxxxxxxxxxxxxxxxxx<br/></span>
+  
+</div>
